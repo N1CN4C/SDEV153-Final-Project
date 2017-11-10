@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>About</title>
+    <link type="text/css" rel="stylesheet" media="screen" href="strength.css" />
+    <link type="text/css" rel="stylesheet" media="print" href="hnprint.css" />
+    <link rel="shortcut icon" href="favicon.ico" />
+    <!--[if lt IE 9]>
+      <script src="scripts/semantic.js"></script>
+    <![endif]-->
+	<!--[if IE]>
+	  <style type="text/css">
+	    legend span {top: 0;}
+		legend {color: black;}
+		#submit {position: relative; left: -80px;}
+	  </style>
+	<![endif]-->
+  </head>
+  <body>
+    <div id="box">
+      <div id="skipnav"><a href="#main">Skip navigation</a></div> 
+      <div id="logo">
+        <h1><img src="images/ndslogo.png" width="130" height="170" alt="NDS logo" />Non-Denominational Strength</h1>
+      </div>
+      <nav>
+        <ul id="mainnav">
+          <li><a href="index.html">Home</a></li>
+          <li><a href="weightlifting.html">Weightlifting</a></li>
+          <li><a href="powerlifting.html">Powerlifting</a></li>
+          <li><a href="strongman.html">Strongman</a></li>
+          <li><a href="crossfit.html">Crossfit</a></li>
+		  <li><a href="about.html">About</a></li>
+		  <li><a href="sitemap.html">Sitemap</a></li>
+        </ul>
+      </nav>
+	  <div id="pagetitle">
+        <h1>About</h1>
+      </div>
+      <article id="main">
+	    <p>Hi! My name is Nic Brauer, and I have created this website as an informational resource for those wishing to learn more about various strength training methods and/or looking to get involved in stregth training communities or competions.</p>
+        <p>I am currently a student studying software development with a goal of finding a technology job in the fitness industry. I am interested in all things strength training and living a healthy lifestyle.
+        <p>I hope that this website can be of assistance to anyone who wants to grow stonger, but doesn't know where to start.</p>
+        <p>Below is a form to fill out if you wish to contact me about any of the content on this website.</p>
+		<p id="message" align="center"></p>
+        <form>
+          <fieldset id="contactinfo">
+            <legend><span>Contact Information</span></legend>
+			<label>
+			  Name
+			  <input type="text" name="name" id="nameinput" placeholder="First and last name" />
+			</label>
+			<label>
+			  Email
+			  <input type="email" name="email" id="emailinput" placeholder="address@example.com" />
+			</label>
+			<label>
+			  Phone
+			  <input type="text" name="phone" id="phoneinput" />
+			</label>
+          </fieldset>
+          <fieldset id="inquiry">
+            <legend><span>Inquiry</span></legend>
+			<label>
+			  Enter your feedback, questions or other general inquiry here:
+			  <textarea name ="inquiry" id="inquiryinput" rows="4" cols="55"></textarea>
+			</label>
+          </fieldset>
+          <fieldset id="submitbutton">
+		    <input type="button" id="submit" value="Submit" onclick='document.getElementById("message").innerHTML=("Thank you for contacting Non-Denominational Strength!");' />
+          </fieldset>
+        </form>		  
+      </article>
+      <footer>
+	    <p>Always Learning, Always Growing Stronger</p>
+      </footer>
+    </div>
+  </body>
+</html>

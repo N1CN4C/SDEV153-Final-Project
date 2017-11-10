@@ -1,0 +1,15 @@
+https://bobbi.ivytech.edu/~nbrauer1/web%20project/wwwroot/index.html
+https://bobbi.ivytech.edu/~nbrauer1/web%20project/wwwroot/weightlifting.html
+https://bobbi.ivytech.edu/~nbrauer1/web%20project/wwwroot/wlresources.html
+https://bobbi.ivytech.edu/~nbrauer1/web%20project/wwwroot/wlcomps.html
+https://bobbi.ivytech.edu/~nbrauer1/web%20project/wwwroot/powerlifting.html
+https://bobbi.ivytech.edu/~nbrauer1/web%20project/wwwroot/plresources.html
+https://bobbi.ivytech.edu/~nbrauer1/web%20project/wwwroot/plcomps.html
+https://bobbi.ivytech.edu/~nbrauer1/web%20project/wwwroot/strongman.html
+https://bobbi.ivytech.edu/~nbrauer1/web%20project/wwwroot/smresources.html
+https://bobbi.ivytech.edu/~nbrauer1/web%20project/wwwroot/smcomps.html
+https://bobbi.ivytech.edu/~nbrauer1/web%20project/wwwroot/crossfit.html
+https://bobbi.ivytech.edu/~nbrauer1/web%20project/wwwroot/cfresources.html
+https://bobbi.ivytech.edu/~nbrauer1/web%20project/wwwroot/cfcomps.html
+https://bobbi.ivytech.edu/~nbrauer1/web%20project/wwwroot/about.html
+https://bobbi.ivytech.edu/~nbrauer1/web%20project/wwwroot/sitemap.html
